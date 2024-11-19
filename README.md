@@ -30,4 +30,11 @@ While I don’t have projects to showcase yet, here’s what I’m planning:
 
 ---
 
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=solarlovesyou&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solarlovesyou&layout=compact&theme=tokyonight)
+
+---
+
 Thanks for stopping by! 🌟 I’ll be updating my profile as I grow, so stay tuned for some awesome projects in the future.
