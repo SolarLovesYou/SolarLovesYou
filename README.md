@@ -1,40 +1,20 @@
-# Hi there! 👋 I'm Solar ☀️
+# 💫 Hi Im Solar:
+🚀 I’m currently learning: Front-End Development<br>🎯 My goal: Build interactive and user-friendly websites<br>🧑‍💻 I’m excited to explore: Frameworks like React and web animations<br>✨ Fun fact: I love Gaming/Video Editing when I’m not coding!
 
-Welcome to my GitHub profile! I'm a budding Front-End Developer on a journey to turn ideas into beautiful, functional web experiences. I’m currently diving deep into the world of **HTML**, **CSS**, and **JavaScript**, and I can’t wait to start building amazing projects!
 
----
+## 🌐 Socials:
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28367112) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@SolarVaporesso) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SolarLovesYou) 
 
-## 🌱 About Me
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 🚀 I’m currently learning: **Front-End Development**  
-- 🎯 My goal: Build interactive and user-friendly websites  
-- 🧑‍💻 I’m excited to explore: Frameworks like **React** and web animations  
-- ✨ Fun fact: I love **Gaming/Video Editing** when I’m not coding!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=solarlovesyou&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## 🛠️ Tech Stack
-
-Here are the tools and technologies I’m learning:
-
-- **Languages:** HTML, CSS, JavaScript  
-- **Tools:** VS Code, Git, Chrome DevTools
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=solarlovesyou&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=solarlovesyou&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚧 Future Projects
-
-While I don’t have projects to showcase yet, here’s what I’m planning:  
-- 🌐 **Personal Portfolio**: My first big project will be creating a portfolio to display my work and growth.  
-- 🎨 **Interactive Web Pages**: I aim to build fun, interactive sites to practice my JavaScript skills.  
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=solarlovesyou&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solarlovesyou&layout=compact&theme=tokyonight)
-
----
-
-Thanks for stopping by! 🌟 I’ll be updating my profile as I grow, so stay tuned for some awesome projects in the future.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
